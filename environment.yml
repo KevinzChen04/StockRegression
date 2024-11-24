@@ -9,6 +9,9 @@ dependencies:
   - pandas
   - statsmodels
   - pytorch
+  - tqdm
+  - matplotlib
   - pip
+  - ipykernel
   - pip:
     - yfinance
