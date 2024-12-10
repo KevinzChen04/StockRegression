@@ -12,6 +12,8 @@ dependencies:
   - tqdm
   - matplotlib
   - pip
+  - scikit-learn
+  - xgboost
   - ipykernel
   - pip:
     - yfinance
