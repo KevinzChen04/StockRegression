@@ -1,4 +1,4 @@
-name: stockregressioncs449
+name: stockregression
 channels:
   - conda-forge
   - anaconda
@@ -15,5 +15,6 @@ dependencies:
   - scikit-learn
   - xgboost
   - ipykernel
+  - tensorflow
   - pip:
     - yfinance
